@@ -4,3 +4,6 @@ ul {
 ol {
     color: orangered;
 }
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
