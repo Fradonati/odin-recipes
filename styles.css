@@ -7,3 +7,20 @@ ol {
 *{
     font-family: 'Courier New', Courier, monospace;
 }
+/*images needed to be smaller*/
+img {
+    max-width: 200px;
+    max-height: auto;
+}
+.links {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
+.images {
+    display: flex;
+    justify-content: space-around;
+}
+a {
+    color: brown;
+}
